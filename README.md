@@ -1,2 +1,2 @@
 # hello_world
-It is the thing
+I am just learning to do things on computers
